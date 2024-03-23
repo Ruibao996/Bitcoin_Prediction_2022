@@ -27,5 +27,3 @@ LSTM prediction
 
 BDD index
 
-# Bitcoin_Prediction_2022
-# Bitcoin_Prediction_2022
